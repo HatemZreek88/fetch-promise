@@ -1,0 +1,2 @@
+- fetch data and show it in browser by fetch promise.
+- refresh the page to see the random users.
